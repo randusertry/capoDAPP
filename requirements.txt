@@ -1,5 +1,4 @@
-python -m spacy download it_core_news_sm
-streamlit
+https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.8.0/it_core_news_sm-3.8.0-py3-none-any.whlstreamlit
 pandas
 bs4
 transformers
