@@ -1,0 +1,6 @@
+python -m spacy download it_core_news_sm
+streamlit
+pandas
+bs4
+transformers
+spacy
