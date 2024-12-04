@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from PIL import Image
+import lxml
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 
 
